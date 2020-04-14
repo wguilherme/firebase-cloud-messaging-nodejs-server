@@ -1,0 +1,23 @@
+{
+  "name": "firebase-cloud-messaging-nodejs-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wguilherme/firebase-cloud-messaging-nodejs-server.git"
+  },
+  "keywords": [],
+  "author": "Withney Guilherme - Brainy Results",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wguilherme/firebase-cloud-messaging-nodejs-server/issues"
+  },
+  "homepage": "https://github.com/wguilherme/firebase-cloud-messaging-nodejs-server#readme",
+  "dependencies": {
+    "firebase-admin": "^8.10.0"
+  }
+}
